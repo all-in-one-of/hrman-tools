@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+*.pyc
+
+# Compiled .sl file extensions for different RenderMan vendors.
+*.slo
+*.sdl
+*.slx
+
+# Compiled dynamic libraries for different operating systems.
+*.so
+*.dll
+*.dylib
+
